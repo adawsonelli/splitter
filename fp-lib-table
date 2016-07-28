@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PinConn)(type KiCad)(uri ${KIPRJMOD}/PinConn.pretty)(options "")(descr "project pin connectors"))
+)
