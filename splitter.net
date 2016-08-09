@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Alex/Documents/KiCad/splitter/splitter.sch)
-    (date "7/27/2016 2:10:31 PM")
+    (date "8/3/2016 11:51:36 PM")
     (tool "Eeschema 4.0.2-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -255,7 +255,7 @@
       (node (ref J3) (pin 28))
       (node (ref J1) (pin 26))
       (node (ref J2) (pin 26)))
-    (net (code 20) (name /P.1)
+    (net (code 20) (name /P0.1)
       (node (ref J2) (pin 17))
       (node (ref J3) (pin 18)))
     (net (code 21) (name /AI_9)
@@ -296,7 +296,7 @@
       (node (ref J1) (pin 25))
       (node (ref J2) (pin 25))
       (node (ref J3) (pin 27)))
-    (net (code 31) (name /TFLU6)
+    (net (code 31) (name /FTLU6)
       (node (ref J1) (pin 60))
       (node (ref J3) (pin 25))
       (node (ref J2) (pin 60)))

@@ -104,7 +104,7 @@ FTLU4
 Text Label 1700 3450 0    60   ~ 12
 FTLU5
 Text Label 1650 6650 0    60   ~ 12
-TFLU6
+FTLU6
 Text Label 1700 4050 0    60   ~ 12
 FTRU1
 Text Label 1700 3750 0    60   ~ 12
@@ -410,13 +410,13 @@ Wire Wire Line
 Text Label 2000 2250 0    60   ~ 0
 P0.6
 Text Label 2000 2350 0    60   ~ 0
-P.1
+P0.1
 Text Label 2000 2550 0    60   ~ 0
 P0.4
 Text Label 2000 2650 0    60   ~ 0
 APFI_0
 Text Label 5800 3100 0    60   ~ 0
-P.1
+P0.1
 Text Label 5800 3000 0    60   ~ 0
 P0.3
 Wire Wire Line
@@ -473,7 +473,7 @@ FTRU5
 Text Label 5800 3500 0    60   ~ 0
 UCrank
 Text Label 4600 3500 0    60   ~ 0
-TFLU6
+FTLU6
 Text Label 4600 3600 0    60   ~ 0
 FTRU4
 Text Label 5800 3600 0    60   ~ 0
