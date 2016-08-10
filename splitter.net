@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Alex/Documents/KiCad/splitter/splitter.sch)
-    (date "8/3/2016 11:51:36 PM")
+    (date "8/10/2016 5:29:29 PM")
     (tool "Eeschema 4.0.2-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -55,7 +55,7 @@
         (pin (num 14) (name VCC) (type passive))
         (pin (num 15) (name D_GND) (type passive))
         (pin (num 16) (name P0.6) (type passive))
-        (pin (num 17) (name P.1) (type passive))
+        (pin (num 17) (name P0.1) (type passive))
         (pin (num 18) (name D_GND) (type passive))
         (pin (num 19) (name P0.4) (type passive))
         (pin (num 20) (name APFI_0) (type passive))
